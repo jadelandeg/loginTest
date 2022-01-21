@@ -6,7 +6,7 @@ import {
   TextInput,
 } from "react-native";
 import React, { useState } from "react";
-import { TouchableOpacity } from "react-native-web";
+import { TouchableOpacity } from "react-native";
 import app from "../firebaseInitialise";
 import {
   getAuth,
